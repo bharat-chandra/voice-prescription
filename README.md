@@ -29,7 +29,7 @@ We used python packages like open-cv for image manipulation and pillow for  conv
 
 ***•The main advantage of this prescription is : The patient will get prescription in pdf format  and there is no chance of wrapping/burning/loss/spoilation of prescription
 
-**![prescription](screenshot%20(30).png)
+**![prescription](Screenshot%20(30).png)
 
 **TECHNOLOGIES :
 
