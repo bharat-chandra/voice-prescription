@@ -47,4 +47,7 @@ Tkinter GUI(window application , Graphical User Interface)                      
 Pillow(Conversion of image to pdf)
 gtts(Google text to speech)
 
+**refer 'requirements.txt' for requirements and understanding the code.
 
+**PLACE ALL THE CODES IN SAME LOCATION(UNZIP THE TEMPLETE.zip FILE)
+**YOU THE CHOOOSE DIFFERENT TEMPLATES OF DIMENSION (600x849) AND REPLACE IT WITH PRESCRITION.JPG FILE. replacing the template should be done in folder location as well as in program too.
