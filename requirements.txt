@@ -10,6 +10,9 @@ directory structure should be like this
         |
         ->prescription-templete.jpg
 
+**PLACE ALL THE CODES IN SAME LOCATION(UNZIPed TEMPLETE.zip FILE,mainapp.py,prescription.py,ICONvp.ico.)
+**YOU THE CHOOOSE DIFFERENT TEMPLATES OF DIMENSION (600x849) AND REPLACE IT WITH PRESCRITION.JPG FILE. replacing the template should be done in folder location as well as in program too.
+
 usage:
 import prescription as pr
 pr.name("chaitu")
