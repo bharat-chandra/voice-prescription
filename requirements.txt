@@ -1,0 +1,29 @@
+requirements - "pip install opencv-python"
+               "pip install pillow"
+
+keep precription.py and templete folder with templete.jpg in same folder of your main script
+
+directory structure should be like this
+    main.py
+    prescription.py
+    templete\
+        |
+        ->prescription-templete.jpg
+
+usage:
+import prescription as pr
+pr.name("chaitu")
+
+available functions:
+
+name(name)      #add patinet name
+age(age)        #add patient age
+gender(gen)     # add patient gender M/F/O
+slno(no)        #add receipt number
+addMedicine(number,medname,qty=1,af_bf=1,tim=1) #number = 1...20 (medicine row number from 1 to 20), medname = "vicks" (medicine name), qty = 20 (quantity,default:1),
+                                                #af_bf = 0/1 (1 for After food, 0 for before food, default:1) , time = 1/2/3/4 (1= three times a day, 2 = morning,evening
+                                                # 3 = morning, 4 = evening, default:1)
+signature(sig)   #add signature of doctor
+save()           #save pdf
+
+note:Date will be automatically added
