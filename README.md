@@ -7,6 +7,8 @@ Problem Code :  AP63 (https://www.sih.gov.in/sih2020)
 
 voice prescription: 🗣🩺⚕️
 
+**desktop application : http://www.mediafire.com/folder/uqlw1t3fs5wpr/dist
+
 **The process which we used is speech recognition i.e. “speech to text” where the doctor ask for patient’s data and then patient will respond to that data like name, age, symptoms etc. 
 
 And now the doctor will dictate a medical prescription to patient  by diagnosing the symptoms through voice command according  to the symptoms and data. 
