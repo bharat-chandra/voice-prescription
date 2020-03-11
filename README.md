@@ -14,15 +14,15 @@ The speech is converted to text format and get appended on the template(prescrip
 
 We used python packages like open-cv for image manipulation and pillow for  conversion of image into pdf and Tkinter for App(GUI)  And SMTPlib for sending prescription through mail. 
 
-**A doctor will be able to dictate his prescription to the patient while talking to his PC running windows
+A doctor will be able to dictate his prescription to the patient while talking to his PC running windows
 
 • For all keywords data will be captured discreetly. 
 
-**• Doctor will be able to edit / delete by voice or hand any entry that has been made. 
+• Doctor will be able to edit / delete by voice or hand any entry that has been made. 
 
 • Doctor will be able to preview the prescription. 
 
-**• Patient willget the PDF document either directly or as a link in SMS/WhatsApp
+• Patient willget the PDF document either directly or as a link in SMS/WhatsApp
 
 ***•The main advantage of this prescription is : The patient will get prescription in pdf format  and there is no chance of wrapping/burning/loss/spoilation of prescription
 
