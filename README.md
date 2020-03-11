@@ -28,7 +28,7 @@ We used python packages like open-cv for image manipulation and pillow for  conv
 • Patient willget the PDF document either directly or as a link in SMS/WhatsApp
 
 ***•The main advantage of this prescription is : The patient will get prescription in pdf format  and there is no chance of wrapping/burning/loss/spoilation of prescription
-![GitHub Logo](prescription-templete.jpg)
+![GitHub Logo](screenshot(30).png)
 
 **TECHNOLOGIES :
 
