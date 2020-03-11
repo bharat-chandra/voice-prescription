@@ -1,6 +1,7 @@
 # voice-prescription 
 A PROBLEM STATMENT OF SIH(Smart india Hackathon) 2020
-Technology Bucket : Health Care and Bio Medical Devices  	Category: Software
+Technology Bucket : Health Care and Bio Medical Devices  	
+Category: Software
 Company Name/Ministry Name:  Bajaj Fin Serv                                Problem Code :  AP63
 
 voice prescription: 🗣🩺⚕️
@@ -25,13 +26,13 @@ We used python packages like open-cv for image manipulation and pillow for  conv
 
 ***•The main advantage of this prescription is : The patient will get prescription in pdf format  and there is no chance of wrapping/burning/loss/spoilation of prescription
 
-**TECHNOLOGIES :
+**TECHNOLOGIES :
 
 The  project  voice prescription  is  mainly  based  on internet . 
 ⇒ The  Technologies  that  are  used  for  the  project  are
-**Python programming :                                  
-      Speech Recognition.(pyaudio and speech Recognition)
-      Prescription Generation in pdf  format.(pilow)
+**Python programming :                                 
+      Speech Recognition.(pyaudio and speech Recognition)
+      Prescription Generation in pdf  format.(pilow)
       Mailing  the pdf.(SMTPlib) 
 
 Therefore,  the  patient  can  get  the details  from  the  doctor  in the  form  of  pdf  and it  automatically  gets saved  to user's device and is automatically sent to patient though email or SMS .    
