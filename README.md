@@ -37,12 +37,12 @@ The  project  voice prescription  is  mainly  based  on internet .
 
 Therefore,  the  patient  can  get  the details  from  the  doctor  in the  form  of  pdf  and it  automatically  gets saved  to user's device and is automatically sent to patient though email or SMS .    
 -> Template Design and standard resolution
+
 **Dependencies :  
 Photoshop(template design and standard resolution)
-Speech Recognition  ->https://youtu.be/K_WbsFrPUCk
+Speech Recognition -> https://youtu.be/K_WbsFrPUCk
 Python Packages:
-                  Tkinter GUI(window application , Graphical User Interface)                                                                 
-                  Open cv(Image Manipulation) 
+                  Tkinter GUI(window application , Graphical User Interface)                                                                               Open cv(Image Manipulation) 
                   Pillow(Conversion of image to pdf)
                   gtts(Google text to speech)
 
