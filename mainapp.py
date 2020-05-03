@@ -219,6 +219,7 @@ sig_entry.grid(row=45,column=1)
 
 def save():
         pr.save()
+        messagebox.showinfo("information","saved at location : "+os.getcwd())
 b8 = Button(middle_frame, text=" --- save --- ",bg='lightgreen', command=save)
 b8.config( height = 4, width = 20)
 b8.grid(row=50,column=1)
