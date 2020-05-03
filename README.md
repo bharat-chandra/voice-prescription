@@ -55,5 +55,6 @@ gtts(Google text to speech)
 
 **refer 'requirements.txt' for requirements and understanding the code.
 
-**PLACE ALL THE CODES IN SAME LOCATION(UNZIP THE TEMPLETE.zip FILE)
+**PLACE ALL THE CODES IN SAME LOCATION(UNZIP THE TEMPLETE.zip FILE) , unzipped templete folder should be in same location where codes are present.
+
 **YOU THE CHOOOSE DIFFERENT TEMPLATES OF DIMENSION (600x849) AND REPLACE IT WITH PRESCRITION.JPG FILE. replacing the template should be done in folder location as well as in program too.
